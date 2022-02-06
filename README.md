@@ -2,8 +2,10 @@
 A rudimentary ray tracer made in Python
 
 
-### Output (600x300)
-![](./media/image.png)
+### Output
+![](./media/out.gif)
+
+![](./media/image2.png)
 
 
 References: 
